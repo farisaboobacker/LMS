@@ -1,0 +1,39 @@
+Fuctionalities
+    - hdgfvdsgfff
+
+Features
+    - dfkjdgtysyf
+
+            Modules
+
+User_module
+Admin_module
+librarian_module
+Customer_module
+Book_module
+
+
+records 
+    id
+    book
+    user
+    out_date
+    due_date
+    in_date
+    fine
+
+cart
+    id
+    book
+    user
+    total_price
+    quantity
+
+order
+    id
+    book
+    user
+    total_price
+    total_quantity
+
+
